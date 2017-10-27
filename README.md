@@ -1,3 +1,4 @@
 # falynpage
 
-file:///Users/fpage/Desktop/falynpage/index.html
+https://github.com/fpage96/falynpage
+
